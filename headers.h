@@ -7,9 +7,14 @@
 #include <vector>
 #include <cstring>
 
+#include "Factory.h"
 #include "CString.h"
 #include "CString0.h"
 #include "CString1.h"
+
+
+#include <map>
+
 
 int Autotest1();
 int Autotest2();
